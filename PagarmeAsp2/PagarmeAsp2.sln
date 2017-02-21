@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PagarmeAsp2", "PagarmeAsp2\PagarmeAsp2.csproj", "{180A50A7-7931-437D-9ED8-78B138357B64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PagarmeAsp2.Tests", "PagarmeAsp2.Tests\PagarmeAsp2.Tests.csproj", "{1C8F4270-9352-4A4C-9C1C-9EADE261DE72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{180A50A7-7931-437D-9ED8-78B138357B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180A50A7-7931-437D-9ED8-78B138357B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180A50A7-7931-437D-9ED8-78B138357B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180A50A7-7931-437D-9ED8-78B138357B64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C8F4270-9352-4A4C-9C1C-9EADE261DE72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C8F4270-9352-4A4C-9C1C-9EADE261DE72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C8F4270-9352-4A4C-9C1C-9EADE261DE72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C8F4270-9352-4A4C-9C1C-9EADE261DE72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

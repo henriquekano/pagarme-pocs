@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{180A50A7-7931-437D-9ED8-78B138357B64}|">
+  <MonoDevelop.Ide.ItemProperties.PagarmeAsp2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PagarmeAsp2/App_Start/WebApiConfig.cs">
+    <Files>
+      <File FileName="PagarmeAsp2/Controllers/HomeController.cs" Line="29" Column="4" />
+      <File FileName="PagarmeAsp2/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="PagarmeAsp2/Views/Home/Index.cshtml" Line="2" Column="1" />
+      <File FileName="PagarmeAsp2/Web.config" Line="1" Column="1" />
+      <File FileName="PagarmeAsp2/Views/Shared/_Layout.cshtml" Line="10" Column="1" />
+      <File FileName="PagarmeAsp2/Views/Home/Capture.aspx" Line="9" Column="6" />
+      <File FileName="PagarmeAsp2/App_Start/WebApiConfig.cs" Line="10" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/henrique/Projects/PagarmeAsp2/PagarmeAsp2/App_Start/RouteConfig.cs" relfile="PagarmeAsp2/App_Start/RouteConfig.cs" line="3" column="1" />
+      <Breakpoint file="/home/henrique/Projects/PagarmeAsp2/PagarmeAsp2/App_Start/RouteConfig.cs" relfile="PagarmeAsp2/App_Start/RouteConfig.cs" line="4" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
