@@ -1,0 +1,7 @@
+<%= form_tag "/transactions/capture" do %>
+    <%= javascript_include_tag "https://assets.pagar.me/checkout/checkout.js", 
+        :'data-encryption-key' => "ek_test_gvoJMnKwRyevOUdjY6NHxzdhTPB39Q",
+        :'data-button-text' =>"Pagar",
+        :'data-amount' => "1000"
+    %>
+<% end %>
