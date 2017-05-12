@@ -11,6 +11,6 @@
         "leafo/scssphp": "0.0.12",
         "php": ">=5.4.0",
         "ext-gd": "*",
-        "ext-mbstring": "*"
+        "ext-mcrypt": "*"
     }
 }
