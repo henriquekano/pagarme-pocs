@@ -9,7 +9,7 @@
         "cardinity/cardinity-sdk-php": "^1.0",
         "braintree/braintree_php" : "3.2.0",
         "leafo/scssphp": "0.0.12",
-        "php": ">=5.4.0",
+        "php": "5.*",
         "ext-gd": "*",
         "ext-mcrypt": "*"
     }
