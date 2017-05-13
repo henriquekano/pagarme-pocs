@@ -1,11 +1,11 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://localhost:8082/admin/');
-define('HTTP_CATALOG', 'http://localhost:8082/');
+define('HTTP_SERVER', 'http://opencart-yay2.herokuapp.com/admin/');
+define('HTTP_CATALOG', 'http://opencart-yay2.herokuapp.com/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://localhost:8082/admin/');
-define('HTTPS_CATALOG', 'http://localhost:8082/');
+define('HTTPS_SERVER', 'http://opencart-yay2.herokuapp.com/admin/');
+define('HTTPS_CATALOG', 'http://opencart-yay2.herokuapp.com/');
 
 // DIR
 define('DIR_APPLICATION', '/app/admin/');
