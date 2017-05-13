@@ -6,17 +6,17 @@ define('HTTP_SERVER', 'http://localhost:8082/');
 define('HTTPS_SERVER', 'http://localhost:8082/');
 
 // DIR
-define('DIR_APPLICATION', '/home/henrique/heroku/opencart/2.2.0.0-compiled/upload/catalog/');
-define('DIR_SYSTEM', '/home/henrique/heroku/opencart/2.2.0.0-compiled/upload/system/');
-define('DIR_IMAGE', '/home/henrique/heroku/opencart/2.2.0.0-compiled/upload/image/');
-define('DIR_LANGUAGE', '/home/henrique/heroku/opencart/2.2.0.0-compiled/upload/catalog/language/');
-define('DIR_TEMPLATE', '/home/henrique/heroku/opencart/2.2.0.0-compiled/upload/catalog/view/theme/');
-define('DIR_CONFIG', '/home/henrique/heroku/opencart/2.2.0.0-compiled/upload/system/config/');
-define('DIR_CACHE', '/home/henrique/heroku/opencart/2.2.0.0-compiled/upload/system/storage/cache/');
-define('DIR_DOWNLOAD', '/home/henrique/heroku/opencart/2.2.0.0-compiled/upload/system/storage/download/');
-define('DIR_LOGS', '/home/henrique/heroku/opencart/2.2.0.0-compiled/upload/system/storage/logs/');
-define('DIR_MODIFICATION', '/home/henrique/heroku/opencart/2.2.0.0-compiled/upload/system/storage/modification/');
-define('DIR_UPLOAD', '/home/henrique/heroku/opencart/2.2.0.0-compiled/upload/system/storage/upload/');
+define('DIR_APPLICATION', '/app/upload/catalog/');
+define('DIR_SYSTEM', '/app/upload/system/');
+define('DIR_IMAGE', '/app/upload/image/');
+define('DIR_LANGUAGE', '/app/upload/catalog/language/');
+define('DIR_TEMPLATE', '/app/upload/catalog/view/theme/');
+define('DIR_CONFIG', '/app/upload/system/config/');
+define('DIR_CACHE', '/app/upload/system/storage/cache/');
+define('DIR_DOWNLOAD', '/app/upload/system/storage/download/');
+define('DIR_LOGS', '/app/upload/system/storage/logs/');
+define('DIR_MODIFICATION', '/app/upload/system/storage/modification/');
+define('DIR_UPLOAD', '/app/upload/system/storage/upload/');
 
 // DB
 define('DB_DRIVER', 'mysqli');
